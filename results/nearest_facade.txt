@@ -1,0 +1,4 @@
+S2.5: nearest chamfer 2.24 px (held-out reference median 0.58, q90 1.75) -> percentile 96
+S10: nearest chamfer 2.41 px (held-out reference median 0.58, q90 1.75) -> percentile 97
+saved <package-root>/figures/fig_nearest_facade.png
+

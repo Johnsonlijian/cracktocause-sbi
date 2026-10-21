@@ -1,0 +1,944 @@
+{
+  "audit_date": "2026-10-21",
+  "bibliography": "refs.bib",
+  "n_entries": 48,
+  "counts": {
+    "METADATA_OK": 34,
+    "METADATA_REVIEW": 1,
+    "CANDIDATE_NO_DOI": 1,
+    "MANUAL_SOURCE_RECORDED": 12,
+    "UNRESOLVED": 0
+  },
+  "scope": "Bibliographic metadata only. This audit does not certify claim support, retraction status, or redistribution permission.",
+  "entries": [
+    {
+      "key": "Burland1974",
+      "title": "Settlement of buildings and associated damage",
+      "doi": null,
+      "year_in_bib": 1974,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.4835,
+      "remote_title": "Settlement Induced Damage to Masonry Buildings",
+      "remote_container": "Computational Science, Engineering &amp; Technology Series",
+      "remote_years": [
+        null
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://www.icevirtuallibrary.com/action/doSearch?AllField=Settlement+of+buildings+and+associated+damage"
+    },
+    {
+      "key": "Boscardin1989",
+      "title": "Building response to excavation-induced settlement",
+      "doi": "10.1061/(ASCE)0733-9410(1989)115:1(1)",
+      "year_in_bib": 1989,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 0.98,
+      "remote_title": "Building Response to Excavation‐Induced Settlement",
+      "remote_container": "Journal of Geotechnical Engineering",
+      "remote_years": [
+        1989,
+        1989
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1061/(ASCE)0733-9410(1989)115:1(1)"
+    },
+    {
+      "key": "Burland1977",
+      "title": "Behaviour of foundations and structures",
+      "doi": null,
+      "year_in_bib": 1977,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.5,
+      "remote_title": "Undrained Behaviour of Natural and Model Clayey Sands",
+      "remote_container": "Soils and Foundations",
+      "remote_years": [
+        1991,
+        1991
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://www.icevirtuallibrary.com/action/doSearch?AllField=Behaviour+of+foundations+and+structures"
+    },
+    {
+      "key": "Burland1995",
+      "title": "Assessment of risk of damage to buildings due to tunnelling and excavation",
+      "doi": null,
+      "year_in_bib": 1995,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.5517,
+      "remote_title": "Limiting the damage to historic buildings due to tunnelling: experience at the Mansion House, London",
+      "remote_container": "Tunnelling’ 94",
+      "remote_years": [
+        1994,
+        1994
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://www.icevirtuallibrary.com/action/doSearch?AllField=Assessment+of+risk+of+damage+to+buildings+due+to+tunnelling"
+    },
+    {
+      "key": "Cha2017",
+      "title": "Deep learning-based crack damage detection using convolutional neural networks",
+      "doi": "10.1111/mice.12263",
+      "year_in_bib": 2017,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 0.9872,
+      "remote_title": "Deep Learning‐Based Crack Damage Detection Using Convolutional Neural Networks",
+      "remote_container": "Computer-Aided Civil and Infrastructure Engineering",
+      "remote_years": [
+        2017,
+        2017
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1111/mice.12263"
+    },
+    {
+      "key": "Davoudi2018",
+      "title": "Structural load estimation using machine vision and surface crack patterns for shear-critical {RC} beams and slabs",
+      "doi": "10.1061/(ASCE)CP.1943-5487.0000766",
+      "year_in_bib": 2018,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Structural Load Estimation Using Machine Vision and Surface Crack Patterns for Shear-Critical RC Beams and Slabs",
+      "remote_container": "Journal of Computing in Civil Engineering",
+      "remote_years": [
+        2018,
+        2018
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1061/(ASCE)CP.1943-5487.0000766"
+    },
+    {
+      "key": "Wu2021Bayes",
+      "title": "Parameter identification for phase-field modeling of fracture: a {B}ayesian approach with sampling-free update",
+      "doi": "10.1007/s00466-020-01942-x",
+      "year_in_bib": 2021,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Parameter identification for phase-field modeling of fracture: a Bayesian approach with sampling-free update",
+      "remote_container": "Computational Mechanics",
+      "remote_years": [
+        2021,
+        2020,
+        2020
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1007/s00466-020-01942-x"
+    },
+    {
+      "key": "Cranmer2020",
+      "title": "The frontier of simulation-based inference",
+      "doi": "10.1073/pnas.1912789117",
+      "year_in_bib": 2020,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "The frontier of simulation-based inference",
+      "remote_container": "Proceedings of the National Academy of Sciences",
+      "remote_years": [
+        2020,
+        2020,
+        2020
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1073/pnas.1912789117"
+    },
+    {
+      "key": "Papamakarios2016",
+      "title": "Fast $\\epsilon$-free inference of simulation models with {B}ayesian conditional density estimation",
+      "doi": null,
+      "year_in_bib": 2016,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.4774,
+      "remote_title": "On estimation of conditional density models with two-phase sampling",
+      "remote_container": "Journal of Statistical Planning and Inference",
+      "remote_years": [
+        2010,
+        2010
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://papers.nips.cc/paper_files/paper/2016/hash/6aca97005c68f1206823815f66102863-Abstract.html"
+    },
+    {
+      "key": "Greenberg2019",
+      "title": "Automatic posterior transformation for likelihood-free inference",
+      "doi": null,
+      "year_in_bib": 2019,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.7101,
+      "remote_title": "Contributions to posterior learning for likelihood-free Bayesian inference",
+      "remote_container": "",
+      "remote_years": [
+        null
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://proceedings.mlr.press/v97/greenberg19a.html"
+    },
+    {
+      "key": "Durkan2019",
+      "title": "Neural spline flows",
+      "doi": null,
+      "year_in_bib": 2019,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.5758,
+      "remote_title": "Neural Diffeomorphic Non-uniform B-spline Flows",
+      "remote_container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "remote_years": [
+        2023,
+        2023
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://papers.nips.cc/paper_files/paper/2019/hash/7ac71d433f282034e088473244df8c02-Abstract.html"
+    },
+    {
+      "key": "TejeroCantero2020",
+      "title": "sbi: A toolkit for simulation-based inference",
+      "doi": "10.21105/joss.02505",
+      "year_in_bib": 2020,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "sbi: A toolkit for simulation-based inference",
+      "remote_container": "Journal of Open Source Software",
+      "remote_years": [
+        2020,
+        2020
+      ],
+      "update_to": [],
+      "relation_keys": [
+        "has-review",
+        "references"
+      ],
+      "official_source_url": "https://doi.org/10.21105/joss.02505"
+    },
+    {
+      "key": "Talts2018",
+      "title": "Validating {B}ayesian inference algorithms with simulation-based calibration",
+      "doi": null,
+      "year_in_bib": 2018,
+      "source_checked": "arXiv API",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "remote_title": "Validating Bayesian Inference Algorithms with Simulation-Based Calibration",
+      "remote_years": [
+        2018
+      ],
+      "title_similarity": 1.0,
+      "official_source_url": "https://arxiv.org/abs/1804.06788"
+    },
+    {
+      "key": "Hermans2022",
+      "title": "A crisis in simulation-based inference? {B}eware, your posterior approximations can be unfaithful",
+      "doi": null,
+      "year_in_bib": 2022,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.4134,
+      "remote_title": "L-C2ST: Local Diagnostics for Posterior Approximations in Simulation-Based Inference",
+      "remote_container": "Advances in Neural Information Processing Systems 36",
+      "remote_years": [
+        2023,
+        2023
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://openreview.net/search?term=A%20crisis%20in%20simulation-based%20inference"
+    },
+    {
+      "key": "Rothfuss2019",
+      "title": "Noise regularization for conditional density estimation",
+      "doi": null,
+      "year_in_bib": 2019,
+      "source_checked": "arXiv API",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "remote_title": "Noise Regularization for Conditional Density Estimation",
+      "remote_years": [
+        2019
+      ],
+      "title_similarity": 1.0,
+      "official_source_url": "https://arxiv.org/abs/1907.08982"
+    },
+    {
+      "key": "Wu2017",
+      "title": "A unified phase-field theory for the mechanics of damage and quasi-brittle failure",
+      "doi": "10.1016/j.jmps.2017.03.015",
+      "year_in_bib": 2017,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "A unified phase-field theory for the mechanics of damage and quasi-brittle failure",
+      "remote_container": "Journal of the Mechanics and Physics of Solids",
+      "remote_years": [
+        2017,
+        2017
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.jmps.2017.03.015"
+    },
+    {
+      "key": "Wu2018",
+      "title": "A length scale insensitive phase-field damage model for brittle fracture",
+      "doi": "10.1016/j.jmps.2018.06.006",
+      "year_in_bib": 2018,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "A length scale insensitive phase-field damage model for brittle fracture",
+      "remote_container": "Journal of the Mechanics and Physics of Solids",
+      "remote_years": [
+        2018,
+        2018
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.jmps.2018.06.006"
+    },
+    {
+      "key": "Bourdin2000",
+      "title": "Numerical experiments in revisited brittle fracture",
+      "doi": "10.1016/S0022-5096(99)00028-9",
+      "year_in_bib": 2000,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Numerical experiments in revisited brittle fracture",
+      "remote_container": "Journal of the Mechanics and Physics of Solids",
+      "remote_years": [
+        2000,
+        2000
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/S0022-5096(99)00028-9"
+    },
+    {
+      "key": "Miehe2010",
+      "title": "A phase field model for rate-independent crack propagation: Robust algorithmic implementation based on operator splits",
+      "doi": "10.1016/j.cma.2010.04.011",
+      "year_in_bib": 2010,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "A phase field model for rate-independent crack propagation: Robust algorithmic implementation based on operator splits",
+      "remote_container": "Computer Methods in Applied Mechanics and Engineering",
+      "remote_years": [
+        2010,
+        2010
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.cma.2010.04.011"
+    },
+    {
+      "key": "Farrell2017",
+      "title": "Linear and nonlinear solvers for variational phase-field models of brittle fracture",
+      "doi": "10.1002/nme.5300",
+      "year_in_bib": 2017,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Linear and nonlinear solvers for variational phase-field models of brittle fracture",
+      "remote_container": "International Journal for Numerical Methods in Engineering",
+      "remote_years": [
+        2017,
+        2016,
+        2016
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1002/nme.5300"
+    },
+    {
+      "key": "Storvik2021",
+      "title": "An accelerated staggered scheme for variational phase-field models of brittle fracture",
+      "doi": "10.1016/j.cma.2021.113822",
+      "year_in_bib": 2021,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "An accelerated staggered scheme for variational phase-field models of brittle fracture",
+      "remote_container": "Computer Methods in Applied Mechanics and Engineering",
+      "remote_years": [
+        2021,
+        2021
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.cma.2021.113822"
+    },
+    {
+      "key": "Baratta2023",
+      "title": "{DOLFINx}: the next generation {FEniCS} problem solving environment",
+      "doi": "10.5281/zenodo.10447666",
+      "year_in_bib": 2023,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "official_source_url": "https://zenodo.org/records/10447666"
+    },
+    {
+      "key": "Giardina2013",
+      "title": "Numerical analysis of a masonry fa{\\c{c}}ade subject to tunnelling-induced settlements",
+      "doi": "10.1016/j.engstruct.2013.03.055",
+      "year_in_bib": 2013,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 0.9875,
+      "remote_title": "Numerical analysis of a masonry façade subject to tunnelling-induced settlements",
+      "remote_container": "Engineering Structures",
+      "remote_years": [
+        2013,
+        2013
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.engstruct.2013.03.055"
+    },
+    {
+      "key": "Giardina2015",
+      "title": "Sensitivity study on tunnelling induced damage to a masonry fa{\\c{c}}ade",
+      "doi": "10.1016/j.engstruct.2015.01.042",
+      "year_in_bib": 2015,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 0.9848,
+      "remote_title": "Sensitivity study on tunnelling induced damage to a masonry façade",
+      "remote_container": "Engineering Structures",
+      "remote_years": [
+        2015,
+        2015
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.engstruct.2015.01.042"
+    },
+    {
+      "key": "NooruMohamed1992",
+      "title": "Mixed-mode fracture of concrete: an experimental approach",
+      "doi": null,
+      "year_in_bib": 1992,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.5439,
+      "remote_title": "Mixed Mode Fracture Concepts in Sructural Concrete Design",
+      "remote_container": "SP-134: Concrete Design Based on Fracture Mechanics",
+      "remote_years": [
+        1992,
+        1992
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://repository.tudelft.nl/search?query=Nooru-Mohamed"
+    },
+    {
+      "key": "Dai2026",
+      "title": "{DuEx-Crack}: A reliability-aware dual-expert framework for cross-domain crack segmentation",
+      "doi": "10.1016/j.cacaie.2026.100201",
+      "year_in_bib": 2026,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "DuEx-Crack: A reliability-aware dual-expert framework for cross-domain crack segmentation",
+      "remote_container": "Computer-Aided Civil and Infrastructure Engineering",
+      "remote_years": [
+        2026,
+        2026
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.cacaie.2026.100201"
+    },
+    {
+      "key": "Wu2026ProbCrack",
+      "title": "{ProbCrack-Diff}: A structure-aware probabilistic framework for concrete crack segmentation, quantification, and uncertainty estimation",
+      "doi": "10.1016/j.cacaie.2026.100203",
+      "year_in_bib": 2026,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "ProbCrack-Diff: A structure-aware probabilistic framework for concrete crack segmentation, quantification, and uncertainty estimation",
+      "remote_container": "Computer-Aided Civil and Infrastructure Engineering",
+      "remote_years": [
+        2026,
+        2026
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.cacaie.2026.100203"
+    },
+    {
+      "key": "Hagh2026",
+      "title": "Hybrid image-based crack characteristic extraction in reinforced concrete experiments",
+      "doi": "10.1016/j.cacaie.2026.100184",
+      "year_in_bib": 2026,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Hybrid image-based crack characteristic extraction in reinforced concrete experiments",
+      "remote_container": "Computer-Aided Civil and Infrastructure Engineering",
+      "remote_years": [
+        2026,
+        2026
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.cacaie.2026.100184"
+    },
+    {
+      "key": "Yang2026",
+      "title": "An automated physics-informed synthetic data pipeline for developing and assessing masonry inspection and deformation monitoring algorithms",
+      "doi": "10.1016/j.cacaie.2026.100159",
+      "year_in_bib": 2026,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "An automated physics-informed synthetic data pipeline for developing and assessing masonry inspection and deformation monitoring algorithms",
+      "remote_container": "Computer-Aided Civil and Infrastructure Engineering",
+      "remote_years": [
+        2026,
+        2026
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.cacaie.2026.100159"
+    },
+    {
+      "key": "Deng2026",
+      "title": "Assessing the reliability of surrogate-based inverse identification beyond forward accuracy: A diagnostic framework for pavement systems",
+      "doi": "10.1016/j.cacaie.2026.100120",
+      "year_in_bib": 2026,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Assessing the reliability of surrogate-based inverse identification beyond forward accuracy: A diagnostic framework for pavement systems",
+      "remote_container": "Computer-Aided Civil and Infrastructure Engineering",
+      "remote_years": [
+        2026,
+        2026
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/j.cacaie.2026.100120"
+    },
+    {
+      "key": "Lueckmann2021",
+      "title": "Benchmarking simulation-based inference",
+      "doi": null,
+      "year_in_bib": 2021,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.5085,
+      "remote_title": "Flexible and efficient simulation-based inference for models of decision-making",
+      "remote_container": "eLife",
+      "remote_years": [
+        2022,
+        2022
+      ],
+      "update_to": [],
+      "relation_keys": [
+        "has-preprint",
+        "has-review"
+      ],
+      "official_source_url": "https://proceedings.mlr.press/v130/lueckmann21a.html"
+    },
+    {
+      "key": "Radev2022",
+      "title": "{BayesFlow}: Learning complex stochastic models with invertible neural networks",
+      "doi": "10.1109/TNNLS.2020.3042395",
+      "year_in_bib": 2022,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "BayesFlow: Learning Complex Stochastic Models With Invertible Neural Networks",
+      "remote_container": "IEEE Transactions on Neural Networks and Learning Systems",
+      "remote_years": [
+        2022,
+        2022
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1109/TNNLS.2020.3042395"
+    },
+    {
+      "key": "Deistler2022",
+      "title": "Truncated proposals for scalable and hassle-free simulation-based inference",
+      "doi": "10.52202/068431-1681",
+      "year_in_bib": 2022,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Truncated Proposals for Scalable and Hassle-Free Simulation-Based Inference",
+      "remote_container": "Advances in Neural Information Processing Systems 35",
+      "remote_years": [
+        2022,
+        2022
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.52202/068431-1681"
+    },
+    {
+      "key": "Beck1998",
+      "title": "Updating models and their uncertainties. {I}: {B}ayesian statistical framework",
+      "doi": "10.1061/(ASCE)0733-9399(1998)124:4(455)",
+      "year_in_bib": 1998,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Updating Models and Their Uncertainties. I: Bayesian Statistical Framework",
+      "remote_container": "Journal of Engineering Mechanics",
+      "remote_years": [
+        1998,
+        1998
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1061/(ASCE)0733-9399(1998)124:4(455)"
+    },
+    {
+      "key": "Chiachio2014",
+      "title": "Approximate {B}ayesian computation by subset simulation",
+      "doi": "10.1137/130932831",
+      "year_in_bib": 2014,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Approximate Bayesian Computation by Subset Simulation",
+      "remote_container": "SIAM Journal on Scientific Computing",
+      "remote_years": [
+        2014,
+        2014,
+        2014
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1137/130932831"
+    },
+    {
+      "key": "Kennedy2001",
+      "title": "Bayesian calibration of computer models",
+      "doi": "10.1111/1467-9868.00294",
+      "year_in_bib": 2001,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Bayesian Calibration of Computer Models",
+      "remote_container": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+      "remote_years": [
+        2001,
+        2002,
+        2001
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1111/1467-9868.00294"
+    },
+    {
+      "key": "Ambati2015",
+      "title": "A review on phase-field models of brittle fracture and a new fast hybrid formulation",
+      "doi": "10.1007/s00466-014-1109-y",
+      "year_in_bib": 2015,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "A review on phase-field models of brittle fracture and a new fast hybrid formulation",
+      "remote_container": "Computational Mechanics",
+      "remote_years": [
+        2015,
+        2014,
+        2014
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1007/s00466-014-1109-y"
+    },
+    {
+      "key": "Wu2020Review",
+      "title": "Phase-field modeling of fracture",
+      "doi": "10.1016/bs.aams.2019.08.001",
+      "year_in_bib": 2020,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Phase-field modeling of fracture",
+      "remote_container": "Advances in Applied Mechanics",
+      "remote_years": [
+        2020,
+        2020
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1016/bs.aams.2019.08.001"
+    },
+    {
+      "key": "Son2005",
+      "title": "Estimation of building damage due to excavation-induced ground movements",
+      "doi": "10.1061/(ASCE)1090-0241(2005)131:2(162)",
+      "year_in_bib": 2005,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Estimation of Building Damage Due to Excavation-Induced Ground Movements",
+      "remote_container": "Journal of Geotechnical and Geoenvironmental Engineering",
+      "remote_years": [
+        2005,
+        2005
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1061/(ASCE)1090-0241(2005)131:2(162)"
+    },
+    {
+      "key": "Burd2000",
+      "title": "Modelling tunnelling-induced settlement of masonry buildings",
+      "doi": "10.1680/geng.2000.143.1.17",
+      "year_in_bib": 2000,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Modelling tunnelling-induced settlement of masonry buildings",
+      "remote_container": "Proceedings of the Institution of Civil Engineers - Geotechnical Engineering",
+      "remote_years": [
+        2000,
+        2000
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1680/geng.2000.143.1.17"
+    },
+    {
+      "key": "Lourenco1996",
+      "title": "Computational strategies for masonry structures",
+      "doi": null,
+      "year_in_bib": 1996,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.5101,
+      "remote_title": "COMPUTATIONAL APPLICATIONS IN MASONRY STRUCTURES: FROM THE MESO-SCALE TO THE SUPER-LARGE/SUPER-COMPLEX",
+      "remote_container": "International Journal for Multiscale Computational Engineering",
+      "remote_years": [
+        2020,
+        2020
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://repository.tudelft.nl/search?query=Computational%20strategies%20for%20masonry%20structures"
+    },
+    {
+      "key": "Ward2022",
+      "title": "Robust neural posterior estimation and statistical model criticism",
+      "doi": "10.52202/068431-2453",
+      "year_in_bib": 2022,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Robust Neural Posterior Estimation and Statistical Model Criticism",
+      "remote_container": "Advances in Neural Information Processing Systems 35",
+      "remote_years": [
+        2022,
+        2022
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.52202/068431-2453"
+    },
+    {
+      "key": "Cannon2022",
+      "title": "Investigating the impact of model misspecification in neural simulation-based inference",
+      "doi": null,
+      "year_in_bib": 2022,
+      "source_checked": "arXiv API",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "remote_title": "Investigating the Impact of Model Misspecification in Neural Simulation-based Inference",
+      "remote_years": [
+        2022
+      ],
+      "title_similarity": 1.0,
+      "official_source_url": "https://arxiv.org/abs/2209.01845"
+    },
+    {
+      "key": "Schmitt2023",
+      "title": "Detecting model misspecification in amortized {B}ayesian inference with neural networks",
+      "doi": "10.1007/978-3-031-54605-1_35",
+      "year_in_bib": 2024,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_REVIEW",
+      "issues": [
+        "container_title_differs"
+      ],
+      "title_similarity": 1.0,
+      "remote_title": "Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks",
+      "remote_container": "Lecture Notes in Computer Science",
+      "remote_years": [
+        2024,
+        2024,
+        2024
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1007/978-3-031-54605-1_35"
+    },
+    {
+      "key": "Skempton1956",
+      "title": "The allowable settlements of buildings",
+      "doi": "10.1680/ipeds.1956.12202",
+      "year_in_bib": 1956,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 0.987,
+      "remote_title": "THE ALLOWABLE SETTLEMENTS OF BUILDINGS.",
+      "remote_container": "Proceedings of the Institution of Civil Engineers",
+      "remote_years": [
+        1956,
+        1956
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.1680/ipeds.1956.12202"
+    },
+    {
+      "key": "Hetenyi1946",
+      "title": "Beams on Elastic Foundation: Theory with Applications in the Fields of Civil and Mechanical Engineering",
+      "doi": null,
+      "year_in_bib": 1946,
+      "source_checked": "Official source registry",
+      "metadata_status": "MANUAL_SOURCE_RECORDED",
+      "issues": [
+        "automated metadata match unavailable; inspect source page before submission"
+      ],
+      "title_similarity": 0.324,
+      "remote_title": "Large deflections of nonlinearly elastic functionally graded composite beams",
+      "remote_container": "Archives of Civil and Mechanical Engineering",
+      "remote_years": [
+        2014,
+        2014
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://search.lib.umich.edu/catalog?query=Beams+on+Elastic+Foundation+Hetenyi"
+    },
+    {
+      "key": "Romano2019",
+      "title": "Conformalized quantile regression",
+      "doi": null,
+      "year_in_bib": 2019,
+      "source_checked": "Crossref title search",
+      "metadata_status": "CANDIDATE_NO_DOI",
+      "issues": [
+        "year_differs_from_crossref"
+      ],
+      "title_similarity": 0.8684,
+      "remote_title": "Conformalized Composite Quantile Regression",
+      "remote_container": "",
+      "remote_years": [
+        2025
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://papers.nips.cc/paper_files/paper/2019/hash/5103c3584b063c431bd1268e9b5e76fb-Abstract.html"
+    },
+    {
+      "key": "Tobin1958",
+      "title": "Estimation of relationships for limited dependent variables",
+      "doi": "10.2307/1907382",
+      "year_in_bib": 1958,
+      "source_checked": "Crossref exact DOI",
+      "metadata_status": "METADATA_OK",
+      "issues": [],
+      "title_similarity": 1.0,
+      "remote_title": "Estimation of Relationships for Limited Dependent Variables",
+      "remote_container": "Econometrica",
+      "remote_years": [
+        1958,
+        1958
+      ],
+      "update_to": [],
+      "relation_keys": [],
+      "official_source_url": "https://doi.org/10.2307/1907382"
+    }
+  ]
+}

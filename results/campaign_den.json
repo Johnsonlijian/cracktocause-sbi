@@ -1,0 +1,20 @@
+{
+ "n": 971,
+ "status": {
+  "ok": 737,
+  "failed": 234
+ },
+ "cpu_hours": 133.24065504643653,
+ "minutes": {
+  "median": 6.583796385924021,
+  "mean": 8.233202165588251,
+  "q90": 15.89948478937149,
+  "max": 47.50409756501516,
+  "median_cracked": 6.583796385924021,
+  "median_uncracked": null
+ },
+ "cracked_fraction": 1.0,
+ "sims_with_flagged_steps": 0,
+ "flagged_steps": 0,
+ "sims_with_widths": 0
+}

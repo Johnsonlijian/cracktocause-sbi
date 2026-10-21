@@ -1,0 +1,27 @@
+﻿reference giardina_l20_h10_kn0.7_linear.npz
+== giardina_l10_h5_kn0.7_linear.npz
+  S =  0.50: no cracks in either
+  S =  1.00: no cracks in either
+  S =  1.50: no cracks in either
+  S =  2.00: no cracks in either
+  S =  2.26: px   23 /   11, w_max  0.64 /  0.53 mm, chamfer  10.4 mm, precision 1.00, recall 0.78
+  S =  2.50: px   27 /   15, w_max  1.14 /  0.75 mm, chamfer   6.2 mm, precision 1.00, recall 0.89
+  S =  3.75: px   82 /   44, w_max  4.12 /  2.43 mm, chamfer  18.0 mm, precision 1.00, recall 0.72
+  S =  4.54: px  101 /   63, w_max  5.32 /  3.30 mm, chamfer  31.9 mm, precision 0.95, recall 0.65
+  S =  5.00: px  102 /   77, w_max  5.81 /  4.31 mm, chamfer  30.7 mm, precision 0.92, recall 0.72
+  S =  6.25: px  107 /   98, w_max  7.75 /  6.10 mm, chamfer  30.6 mm, precision 0.84, recall 0.79
+  S =  6.81: px  108 /  120, w_max  8.64 /  6.97 mm, chamfer  27.4 mm, precision 0.75, recall 0.84
+  S =  7.50: px  116 /  126, w_max  8.49 /  7.42 mm, chamfer  19.2 mm, precision 0.80, recall 0.86
+  S =  8.75: px  122 /  130, w_max  8.60 /  9.10 mm, chamfer  18.7 mm, precision 0.82, recall 0.87
+== giardina_l20_h5_kn0.7_linear.npz
+  S =  0.50: no cracks in either
+  S =  1.00: no cracks in either
+  S =  1.50: no cracks in either
+  S =  2.00: cracks in one map only (0 / 13 px)
+  S =  2.26: px   23 /   16, w_max  0.64 /  0.53 mm, chamfer   5.7 mm, precision 1.00, recall 0.83
+  S =  2.50: px   27 /   27, w_max  1.14 /  0.85 mm, chamfer   1.9 mm, precision 1.00, recall 1.00
+  S =  3.75: px   82 /   52, w_max  4.12 /  1.80 mm, chamfer  19.2 mm, precision 1.00, recall 0.70
+  S =  4.54: px  101 /   68, w_max  5.32 /  2.55 mm, chamfer  32.3 mm, precision 0.93, recall 0.64
+  S =  5.00: px  102 /   73, w_max  5.81 /  2.68 mm, chamfer  42.8 mm, precision 0.86, recall 0.65
+  S =  6.25: px  107 /   95, w_max  7.75 /  2.84 mm, chamfer  65.9 mm, precision 0.72, recall 0.71
+  S =  6.81: px  108 /  104, w_max  8.64 /  2.88 mm, chamfer  75.3 mm, precision 0.66, recall 0.69

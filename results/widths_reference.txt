@@ -1,0 +1,75 @@
+﻿== giardina_l20_h10_kn0.7_linear.npz
+  S =  0.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.26 mm:   23 crack px, w_max =  0.64 mm   <- S2.5: measured None
+  S =  2.50 mm:   27 crack px, w_max =  1.14 mm
+  S =  3.75 mm:   82 crack px, w_max =  4.12 mm
+  S =  4.54 mm:  101 crack px, w_max =  5.32 mm   <- S5: measured 2.18
+  S =  5.00 mm:  102 crack px, w_max =  5.81 mm
+  S =  6.25 mm:  107 crack px, w_max =  7.75 mm
+  S =  6.81 mm:  108 crack px, w_max =  8.64 mm   <- S7.5: measured 2.61
+  S =  7.50 mm:  116 crack px, w_max =  8.49 mm
+  S =  8.75 mm:  122 crack px, w_max =  8.60 mm
+  S =  9.10 mm:  129 crack px, w_max =  8.89 mm   <- S10: measured 6.29
+== giardina_l20_h10_kn0.7_linear_cov0.15_seed1.npz
+  S =  0.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.26 mm:   25 crack px, w_max =  0.93 mm   <- S2.5: measured None
+  S =  2.50 mm:   34 crack px, w_max =  1.29 mm
+  S =  3.75 mm:   76 crack px, w_max =  2.83 mm
+  S =  4.54 mm:   76 crack px, w_max =  3.56 mm   <- S5: measured 2.18
+  S =  5.00 mm:   76 crack px, w_max =  3.97 mm
+  S =  6.25 mm:   91 crack px, w_max =  4.97 mm
+  S =  6.81 mm:  113 crack px, w_max =  6.14 mm   <- S7.5: measured 2.61
+  S =  7.50 mm:  137 crack px, w_max =  7.61 mm
+  S =  8.75 mm:  158 crack px, w_max =  8.25 mm
+  S =  9.10 mm:  160 crack px, w_max =  8.63 mm   <- S10: measured 6.29
+== giardina_l20_h10_kn0.7_linear_cov0.15_seed2.npz
+  S =  0.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.26 mm:   23 crack px, w_max =  0.77 mm   <- S2.5: measured None
+  S =  2.50 mm:   30 crack px, w_max =  0.96 mm
+  S =  3.75 mm:   77 crack px, w_max =  4.29 mm
+  S =  4.54 mm:   98 crack px, w_max =  5.64 mm   <- S5: measured 2.18
+  S =  5.00 mm:   99 crack px, w_max =  6.11 mm
+  S =  6.25 mm:  101 crack px, w_max =  7.72 mm
+  S =  6.81 mm:  113 crack px, w_max =  8.36 mm   <- S7.5: measured 2.61
+  S =  7.50 mm:  120 crack px, w_max =  8.88 mm
+  S =  8.75 mm:  137 crack px, w_max =  9.74 mm
+  S =  9.10 mm:  140 crack px, w_max =  9.89 mm   <- S10: measured 6.29
+== giardina_l20_h10_kn0.7_linear_cov0.15_seed3.npz
+  S =  0.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.26 mm:   32 crack px, w_max =  1.08 mm   <- S2.5: measured None
+  S =  2.50 mm:   42 crack px, w_max =  1.44 mm
+  S =  3.75 mm:   69 crack px, w_max =  3.15 mm
+  S =  4.54 mm:   74 crack px, w_max =  3.83 mm   <- S5: measured 2.18
+  S =  5.00 mm:   78 crack px, w_max =  4.68 mm
+  S =  6.25 mm:  101 crack px, w_max =  6.17 mm
+  S =  6.81 mm:  114 crack px, w_max =  6.94 mm   <- S7.5: measured 2.61
+  S =  7.50 mm:  120 crack px, w_max =  7.70 mm
+  S =  8.75 mm:  131 crack px, w_max =  8.89 mm
+  S =  9.10 mm:  133 crack px, w_max =  9.33 mm   <- S10: measured 6.29
+== giardina_l20_h10_kn0.7_linear_cov0.15_seed4.npz
+  S =  0.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  1.50 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.00 mm:    0 crack px, w_max =  0.00 mm
+  S =  2.26 mm:   12 crack px, w_max =  0.51 mm   <- S2.5: measured None
+  S =  2.50 mm:   23 crack px, w_max =  0.96 mm
+  S =  3.75 mm:   84 crack px, w_max =  4.17 mm
+  S =  4.54 mm:  102 crack px, w_max =  5.50 mm   <- S5: measured 2.18
+  S =  5.00 mm:  102 crack px, w_max =  6.04 mm
+  S =  6.25 mm:  106 crack px, w_max =  7.51 mm
+  S =  6.81 mm:  108 crack px, w_max =  7.91 mm   <- S7.5: measured 2.61
+  S =  7.50 mm:  110 crack px, w_max =  7.68 mm
+  S =  8.75 mm:  132 crack px, w_max =  7.71 mm
+  S =  9.10 mm:  140 crack px, w_max =  7.82 mm   <- S10: measured 6.29

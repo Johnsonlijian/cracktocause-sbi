@@ -1,0 +1,10 @@
+# Python 3.12 CPU analysis environment recorded on 2026-10-18
+numpy==2.3.5
+scipy==1.16.3
+scikit-image==0.26.0
+scikit-learn==1.9.0
+matplotlib==3.10.9
+PyMuPDF==1.28.0
+torch==2.12.0
+sbi==0.27.0
+# FEniCSx/dolfinx, mpi4py, petsc4py, petsc and ufl are installed separately.

@@ -1,0 +1,8 @@
+4a_front: nearest chamfer 1.88 px (held-out reference median 0.86, q90 1.50) -> percentile 96
+4a_rear: nearest chamfer 2.06 px (held-out reference median 0.86, q90 1.50) -> percentile 96
+4b_front: nearest chamfer 1.67 px (held-out reference median 0.86, q90 1.50) -> percentile 93
+4b_rear: nearest chamfer 1.47 px (held-out reference median 0.86, q90 1.50) -> percentile 89
+4c_front: nearest chamfer 3.25 px (held-out reference median 0.86, q90 1.50) -> percentile 100
+4c_rear: nearest chamfer 3.94 px (held-out reference median 0.86, q90 1.50) -> percentile 100
+saved <package-root>/figures/fig_nearest_den.png
+

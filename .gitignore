@@ -1,0 +1,29 @@
+# Secrets and local environment
+.env
+.env.*
+*.key
+*.pem
+*.p12
+# Private or unreleased campaign data
+runs/
+raw/
+private/
+*_runs/
+sbi_*/
+*.npy
+*.npz
+# Manuscript and internal workflow material
+manuscript/
+rounds/
+logs/
+writing_audit/
+_session_scratch*/
+# Generated caches and local paths
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.vscode/
+# Do not add the withheld digitized inputs
+/data_public/*.npz
+/data_public/*.csv

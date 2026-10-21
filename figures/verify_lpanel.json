@@ -1,0 +1,12 @@
+{
+ "ell": 10.0,
+ "h_fine": 2.5,
+ "split": "spectral",
+ "softening": "linear",
+ "nodes": 21610,
+ "elements": 42776,
+ "peak_kN": 7.877009729743893,
+ "v_at_peak": 0.16,
+ "seconds": 1548.835918188095,
+ "total_stag": 1434
+}

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or derived summaries, cite the manuscript and this repository release."
+title: "CrackToCause-SBI: simulation-based inference of foundation settlement from crack patterns"
+version: "0.1.0-2026-10-21"
+date-released: 2026-10-21
+type: software
+license: MIT
+repository-code: "https://github.com/Johnsonlijian/cracktocause-sbi"
+url: "https://github.com/Johnsonlijian/cracktocause-sbi"
+keywords:
+  - simulation-based inference
+  - phase-field fracture
+  - masonry façade
+  - settlement
+  - crack patterns
+abstract: >-
+  Reproducible code and author-generated derived summaries for a phase-field
+  fracture simulator coupled to neural posterior estimation of foundation
+  settlement from crack maps. Raw campaign data, trained weights, and
+  third-party digitized inputs are excluded.
+authors:
+  - family-names: "Ren"
+    given-names: "Lijian"
+    email: "renlijian@imut.edu.cn"
+    affiliation: "School of Civil Engineering, Inner Mongolia University of Technology"
+

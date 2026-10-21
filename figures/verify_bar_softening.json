@@ -1,0 +1,38 @@
+{
+ "2.5": {
+  "h_mm": 0.5,
+  "nodes": 8421,
+  "elements": 16000,
+  "peak_stress_MPa": 2.9928883032643006,
+  "peak_over_ft": 0.9976294344214335,
+  "E_frac_final_over_GfA": 0.9819600110729989,
+  "work_over_GfA": 1.024243450648086,
+  "postpeak_rel_L2_error": 0.05354369830238664,
+  "total_staggered_iterations": 3017,
+  "wall_seconds": 149.2891035079956
+ },
+ "5.0": {
+  "h_mm": 1.0,
+  "nodes": 2211,
+  "elements": 4000,
+  "peak_stress_MPa": 2.9892526172344267,
+  "peak_over_ft": 0.9964175390781422,
+  "E_frac_final_over_GfA": 0.9808419168875164,
+  "work_over_GfA": 1.0227351456387987,
+  "postpeak_rel_L2_error": 0.05312947509251669,
+  "total_staggered_iterations": 2799,
+  "wall_seconds": 34.60666298866272
+ },
+ "10.0": {
+  "h_mm": 2.0,
+  "nodes": 606,
+  "elements": 1000,
+  "peak_stress_MPa": 2.986420449368794,
+  "peak_over_ft": 0.9954734831229314,
+  "E_frac_final_over_GfA": 0.9824664881677201,
+  "work_over_GfA": 1.0222256848281184,
+  "postpeak_rel_L2_error": 0.05281946351516055,
+  "total_staggered_iterations": 2574,
+  "wall_seconds": 11.488255739212036
+ }
+}

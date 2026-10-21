@@ -1,0 +1,2552 @@
+{
+ "runs": [
+  {
+   "name": "giardina_l20_h10_kn0.7_linear",
+   "profile": "measured",
+   "seed": 0,
+   "S_last": 9.1,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.36134453781512604,
+      "H2": 0.0
+     }
+    },
+    "S5": {
+     "S": 4.54,
+     "x_mm": 645.0,
+     "extent": 0.3865546218487395,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8907563025210085,
+      "H2": 0.0
+     }
+    },
+    "S7.5": {
+     "S": 6.81,
+     "x_mm": 645.0,
+     "extent": 0.42016806722689076,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.0
+     }
+    },
+    "S10": {
+     "S": 9.1,
+     "x_mm": 645.0,
+     "extent": 0.42016806722689076,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.058823529411764705
+     }
+    },
+    "last": {
+     "S": 9.1,
+     "x_mm": 645.0,
+     "extent": 0.42016806722689076,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.058823529411764705
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed1",
+   "profile": "measured",
+   "seed": 1,
+   "S_last": 9.1,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.09243697478991597,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8403361344537815
+     }
+    },
+    "S5": {
+     "S": 4.54,
+     "x_mm": 985.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8907563025210085
+     }
+    },
+    "S7.5": {
+     "S": 6.81,
+     "x_mm": 985.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.907563025210084
+     }
+    },
+    "S10": {
+     "S": 9.1,
+     "x_mm": 955.0,
+     "extent": 0.20168067226890757,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.01680672268907563,
+      "H2": 0.9243697478991597
+     }
+    },
+    "last": {
+     "S": 9.1,
+     "x_mm": 955.0,
+     "extent": 0.20168067226890757,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.01680672268907563,
+      "H2": 0.9243697478991597
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed2",
+   "profile": "measured",
+   "seed": 2,
+   "S_last": 9.1,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.36134453781512604,
+      "H2": 0.0
+     }
+    },
+    "S5": {
+     "S": 4.54,
+     "x_mm": 645.0,
+     "extent": 0.3949579831932773,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.0
+     }
+    },
+    "S7.5": {
+     "S": 6.81,
+     "x_mm": 645.0,
+     "extent": 0.42016806722689076,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.0
+     }
+    },
+    "S10": {
+     "S": 9.1,
+     "x_mm": 645.0,
+     "extent": 0.7058823529411765,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.05042016806722689
+     }
+    },
+    "last": {
+     "S": 9.1,
+     "x_mm": 645.0,
+     "extent": 0.7058823529411765,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.05042016806722689
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed3",
+   "profile": "measured",
+   "seed": 3,
+   "S_last": 9.1,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.12605042016806722,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8487394957983193
+     }
+    },
+    "S5": {
+     "S": 4.54,
+     "x_mm": 995.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.9243697478991597
+     }
+    },
+    "S7.5": {
+     "S": 6.81,
+     "x_mm": 945.0,
+     "extent": 0.17647058823529413,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.9243697478991597
+     }
+    },
+    "S10": {
+     "S": 9.1,
+     "x_mm": 940.0,
+     "extent": 0.20168067226890757,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.9243697478991597
+     }
+    },
+    "last": {
+     "S": 9.1,
+     "x_mm": 940.0,
+     "extent": 0.20168067226890757,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.9243697478991597
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed4",
+   "profile": "measured",
+   "seed": 4,
+   "S_last": 9.1,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.10084033613445378,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.10084033613445378,
+      "H2": 0.0
+     }
+    },
+    "S5": {
+     "S": 4.54,
+     "x_mm": 645.0,
+     "extent": 0.3949579831932773,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.865546218487395,
+      "H2": 0.0
+     }
+    },
+    "S7.5": {
+     "S": 6.81,
+     "x_mm": 645.0,
+     "extent": 0.40336134453781514,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.865546218487395,
+      "H2": 0.0
+     }
+    },
+    "S10": {
+     "S": 9.1,
+     "x_mm": 645.0,
+     "extent": 0.6974789915966386,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.865546218487395,
+      "H2": 0.04201680672268908
+     }
+    },
+    "last": {
+     "S": 9.1,
+     "x_mm": 645.0,
+     "extent": 0.6974789915966386,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.865546218487395,
+      "H2": 0.04201680672268908
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed1_hinge",
+   "profile": "hinge",
+   "seed": 1,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.20168067226890757,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7478991596638656,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9411764705882353,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed1_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 1,
+   "S_last": 2.5,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.10084033613445378,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.3445378151260504,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 2.5,
+     "x_mm": 645.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.37815126050420167,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed2_hinge",
+   "profile": "hinge",
+   "seed": 2,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.2184873949579832,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7563025210084033,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed2_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 2,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.3865546218487395,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.18487394957983194,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed3_hinge",
+   "profile": "hinge",
+   "seed": 3,
+   "S_last": 4.54,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.12605042016806722,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.37815126050420167
+     }
+    },
+    "S5": {
+     "S": 4.54,
+     "x_mm": 995.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.3949579831932773
+     }
+    },
+    "last": {
+     "S": 4.54,
+     "x_mm": 995.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.3949579831932773
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed3_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 3,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.12605042016806722,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.37815126050420167
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 995.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.9243697478991597
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed4_hinge",
+   "profile": "hinge",
+   "seed": 4,
+   "S_last": 5.0,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.20168067226890757,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7478991596638656,
+      "H2": 0.0
+     }
+    },
+    "S5": {
+     "S": 4.54,
+     "x_mm": 645.0,
+     "extent": 0.40336134453781514,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 5.0,
+     "x_mm": 645.0,
+     "extent": 0.4117647058823529,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8907563025210085,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed4_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 4,
+   "S_last": 2.5,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.17647058823529413,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7226890756302521,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 2.5,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7394957983193278,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_hinge",
+   "profile": "hinge",
+   "seed": 0,
+   "S_last": 2.5,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.11764705882352941,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.5630252100840336,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 2.5,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6638655462184874,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 0,
+   "S_last": 5.0,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.13445378151260504,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6302521008403361,
+      "H2": 0.0
+     }
+    },
+    "S5": {
+     "S": 4.54,
+     "x_mm": 645.0,
+     "extent": 0.3865546218487395,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 5.0,
+     "x_mm": 645.0,
+     "extent": 0.40336134453781514,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed10",
+   "profile": "measured",
+   "seed": 10,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6974789915966386,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7394957983193278,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed10_hinge",
+   "profile": "hinge",
+   "seed": 10,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 640.0,
+     "extent": 0.20168067226890757,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7478991596638656,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.226890756302521,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.773109243697479,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed10_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 10,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6974789915966386,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7394957983193278,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed11",
+   "profile": "measured",
+   "seed": 11,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6722689075630253,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.36134453781512604,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8907563025210085,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed11_hinge",
+   "profile": "hinge",
+   "seed": 11,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.24369747899159663,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7899159663865546,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed11_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 11,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.37815126050420167,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.3277310924369748,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8739495798319328,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed12",
+   "profile": "measured",
+   "seed": 12,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.17647058823529413,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8823529411764706,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.36134453781512604,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed12_hinge",
+   "profile": "hinge",
+   "seed": 12,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 640.0,
+     "extent": 0.20168067226890757,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.3865546218487395,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9243697478991597,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed12_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 12,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.17647058823529413,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8739495798319328,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.37815126050420167,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9159663865546218,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed13",
+   "profile": "measured",
+   "seed": 13,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.16806722689075632,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7058823529411765,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed13_hinge",
+   "profile": "hinge",
+   "seed": 13,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15966386554621848,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6974789915966386,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed13_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 13,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6386554621848739,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed14",
+   "profile": "measured",
+   "seed": 14,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8403361344537815,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9243697478991597,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed14_hinge",
+   "profile": "hinge",
+   "seed": 14,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.37815126050420167,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9327731092436975,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed14_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 14,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6302521008403361,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 640.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9327731092436975,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed15",
+   "profile": "measured",
+   "seed": 15,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.09243697478991597,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.3025210084033613
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 995.0,
+     "extent": 0.15966386554621848,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.907563025210084
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed15_hinge",
+   "profile": "hinge",
+   "seed": 15,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 475.0,
+     "extent": 0.08403361344537816,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.05042016806722689,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.226890756302521,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.4957983193277311,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed15_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 15,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 475.0,
+     "extent": 0.04201680672268908,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.03361344537815126,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 640.0,
+     "extent": 0.2184873949579832,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.48739495798319327,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed16",
+   "profile": "measured",
+   "seed": 16,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.11764705882352941,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8487394957983193
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 1355.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.9159663865546218
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed16_hinge",
+   "profile": "hinge",
+   "seed": 16,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 735.0,
+     "extent": 0.12605042016806722,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 755.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed16_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 16,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.12605042016806722,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.37815126050420167
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 945.0,
+     "extent": 0.15966386554621848,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8823529411764706
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed17",
+   "profile": "measured",
+   "seed": 17,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.36134453781512604,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.2184873949579832,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.957983193277311,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed17_hinge",
+   "profile": "hinge",
+   "seed": 17,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.36134453781512604,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.17647058823529413,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.957983193277311,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed17_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 17,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8739495798319328,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8991596638655462,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed18",
+   "profile": "measured",
+   "seed": 18,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8907563025210085,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9327731092436975,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed18_hinge",
+   "profile": "hinge",
+   "seed": 18,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 640.0,
+     "extent": 0.20168067226890757,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.907563025210084,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9327731092436975,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed18_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 18,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.18487394957983194,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8907563025210085,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9327731092436975,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed19",
+   "profile": "measured",
+   "seed": 19,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 995.0,
+     "extent": 0.11764705882352941,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8403361344537815
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 995.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.907563025210084
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed19_hinge",
+   "profile": "hinge",
+   "seed": 19,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.3865546218487395,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.18487394957983194,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed19_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 19,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.3865546218487395,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.18487394957983194,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed20",
+   "profile": "measured",
+   "seed": 20,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.11764705882352941,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6302521008403361,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.36134453781512604,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.907563025210084,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed20_hinge",
+   "profile": "hinge",
+   "seed": 20,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.11764705882352941,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6218487394957983,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9327731092436975,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed20_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 20,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15966386554621848,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7058823529411765,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.19327731092436976,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9159663865546218,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed21",
+   "profile": "measured",
+   "seed": 21,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.09243697478991597,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.3025210084033613
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 985.0,
+     "extent": 0.13445378151260504,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8907563025210085
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed21_hinge",
+   "profile": "hinge",
+   "seed": 21,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.09243697478991597,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.09243697478991597
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 985.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8403361344537815
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed21_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 21,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.09243697478991597,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.09243697478991597
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 985.0,
+     "extent": 0.13445378151260504,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8907563025210085
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed22",
+   "profile": "measured",
+   "seed": 22,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.10084033613445378,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.10084033613445378
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 995.0,
+     "extent": 0.18487394957983194,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8823529411764706
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed22_hinge",
+   "profile": "hinge",
+   "seed": 22,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.12605042016806722,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.37815126050420167
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 985.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.3865546218487395
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed22_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 22,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.11764705882352941,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.36134453781512604
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 985.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8907563025210085
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed23",
+   "profile": "measured",
+   "seed": 23,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 985.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8571428571428571
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 995.0,
+     "extent": 0.16806722689075632,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.9327731092436975
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed23_hinge",
+   "profile": "hinge",
+   "seed": 23,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": NaN,
+     "extent": 0.0,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 640.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9495798319327731,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed23_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 23,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": NaN,
+     "extent": 0.0,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 985.0,
+     "extent": 0.15966386554621848,
+     "hinge": "none",
+     "band_hinge": "H2",
+     "span": {
+      "H1": 0.0,
+      "H2": 0.8991596638655462
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed24",
+   "profile": "measured",
+   "seed": 24,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.36134453781512604,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.24369747899159663,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7815126050420168,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed24_hinge",
+   "profile": "hinge",
+   "seed": 24,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15966386554621848,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8823529411764706,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.33613445378151263,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9411764705882353,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed24_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 24,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.36134453781512604,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.31932773109243695,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8571428571428571,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed5",
+   "profile": "measured",
+   "seed": 5,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.10084033613445378,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.35294117647058826,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.3865546218487395,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9327731092436975,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed5_hinge",
+   "profile": "hinge",
+   "seed": 5,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6890756302521008,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.2184873949579832,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9327731092436975,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed5_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 5,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15966386554621848,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.8907563025210085,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.2605042016806723,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.9327731092436975,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed6",
+   "profile": "measured",
+   "seed": 6,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15966386554621848,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7058823529411765,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7815126050420168,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed6_hinge",
+   "profile": "hinge",
+   "seed": 6,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6890756302521008,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.18487394957983194,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed6_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 6,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.14285714285714285,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6638655462184874,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.18487394957983194,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed7",
+   "profile": "measured",
+   "seed": 7,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.10084033613445378,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.3025210084033613,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 635.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.773109243697479,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed7_hinge",
+   "profile": "hinge",
+   "seed": 7,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15966386554621848,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6974789915966386,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.24369747899159663,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7815126050420168,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed7_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 7,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.10084033613445378,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.3445378151260504,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.773109243697479,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed8",
+   "profile": "measured",
+   "seed": 8,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6722689075630253,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.17647058823529413,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed8_hinge",
+   "profile": "hinge",
+   "seed": 8,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.16806722689075632,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7226890756302521,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.33613445378151263,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.907563025210084,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed8_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 8,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.15126050420168066,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.6890756302521008,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.16806722689075632,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7226890756302521,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed9",
+   "profile": "measured",
+   "seed": 9,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.09243697478991597,
+     "hinge": "none",
+     "band_hinge": "none",
+     "span": {
+      "H1": 0.29411764705882354,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.23529411764705882,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.773109243697479,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed9_hinge",
+   "profile": "hinge",
+   "seed": 9,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 655.0,
+     "extent": 0.1092436974789916,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.36134453781512604,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.2184873949579832,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7647058823529411,
+      "H2": 0.0
+     }
+    }
+   }
+  },
+  {
+   "name": "giardina_l20_h10_kn0.7_linear_cov0.15_seed9_measured_nouplift",
+   "profile": "measured_nouplift",
+   "seed": 9,
+   "S_last": 3.75,
+   "stages": {
+    "S2.5": {
+     "S": 2.26,
+     "x_mm": 645.0,
+     "extent": 0.18487394957983194,
+     "hinge": "none",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.7310924369747899,
+      "H2": 0.0
+     }
+    },
+    "last": {
+     "S": 3.75,
+     "x_mm": 645.0,
+     "extent": 0.36134453781512604,
+     "hinge": "H1",
+     "band_hinge": "H1",
+     "span": {
+      "H1": 0.907563025210084,
+      "H2": 0.0
+     }
+    }
+   }
+  }
+ ],
+ "experiment": {
+  "S2.5": {
+   "x_mm": 1005.0,
+   "extent": 0.09243697478991597,
+   "hinge": "none",
+   "band_hinge": "H2",
+   "span": {
+    "H1": 0.0,
+    "H2": 0.8991596638655462
+   }
+  },
+  "S5": {
+   "x_mm": 1005.0,
+   "extent": 0.09243697478991597,
+   "hinge": "none",
+   "band_hinge": "H2",
+   "span": {
+    "H1": 0.0,
+    "H2": 0.8991596638655462
+   }
+  },
+  "S7.5": {
+   "x_mm": 1365.0,
+   "extent": 0.10084033613445378,
+   "hinge": "none",
+   "band_hinge": "H2",
+   "span": {
+    "H1": 0.0,
+    "H2": 0.8991596638655462
+   }
+  },
+  "S10": {
+   "x_mm": 1185.0,
+   "extent": 0.10084033613445378,
+   "hinge": "none",
+   "band_hinge": "H2",
+   "span": {
+    "H1": 0.0,
+    "H2": 0.8991596638655462
+   }
+  }
+ },
+ "summary": {
+  "measured": {
+   "n": 25,
+   "H1": 17,
+   "H2": 8,
+   "none": 0,
+   "seeds_H2": [
+    1,
+    3,
+    15,
+    16,
+    19,
+    21,
+    22,
+    23
+   ]
+  },
+  "measured_nouplift": {
+   "n": 25,
+   "H1": 20,
+   "H2": 5,
+   "none": 0,
+   "seeds_H2": [
+    3,
+    16,
+    21,
+    22,
+    23
+   ]
+  },
+  "hinge": {
+   "n": 25,
+   "H1": 21,
+   "H2": 3,
+   "none": 1,
+   "seeds_H2": [
+    3,
+    21,
+    22
+   ]
+  }
+ },
+ "paired_vs_measured": {
+  "hinge": {
+   "n": 25,
+   "only_measured_H2": 5,
+   "only_other_H2": 0,
+   "both_H2": 3,
+   "p_mcnemar": 0.0625
+  },
+  "measured_nouplift": {
+   "n": 25,
+   "only_measured_H2": 3,
+   "only_other_H2": 0,
+   "both_H2": 5,
+   "p_mcnemar": 0.25
+  }
+ }
+}
