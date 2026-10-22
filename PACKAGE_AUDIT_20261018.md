@@ -1,4 +1,9 @@
-# Local reproducibility package audit — 2026-10-18
+# Historical reproducibility package audit — 2026-10-18
+
+> **Superseded.** This file records the pre-publication local candidate. The
+> current public-release audit is `PACKAGE_AUDIT_20261021.md`; the GitHub
+> publication and remote-commit verification are recorded in the parent
+> project's `results/github_publish_20261021.md`.
 
 ## Result
 
@@ -29,7 +34,8 @@ Package inventory at audit time: 25 source files, 44 example scripts, 10 portabl
 
 The package can validate the audited summaries and regenerate lightweight analyses once authorized campaign inputs are supplied. A full FEniCSx campaign requires the stated dolfinx/MPI/PETSc environment and is not reproduced by this hash check. The current manuscript's NPE/conditional/noise/VOI summaries use validated prior estimator artifacts; this package does not claim a fresh 300-epoch CPU retraining. The no-opening causal counterfactual remains unavailable.
 
-## Release gate
+## Historical release gate
 
-This is a local, pre-submission candidate. Before any public repository or archive release, verify the target journal's review model, confirm source-specific data/figure rights, replace placeholder authors, choose the final code/data licenses, add an approved repository URL and archive DOI, rerun the hash file, and obtain explicit author approval for publication.
+The release gate above applied before the 2026-10-21 public repository push. It
+is retained for provenance and is not the current publication status.
 
